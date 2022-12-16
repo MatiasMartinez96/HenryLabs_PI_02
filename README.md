@@ -11,7 +11,7 @@
 </p>
 
 ​
-¡Bienvenidos! Mi nombre es Matias Martinez y estoy cursando la etapa de Labs del Bootcamp de Henry. En este proyecto pondré en práctica mis habilidades en el campo del Machine Learning. Comenzaré con un análisis exploratorio de datos (EDA), para obtener consistencia en los mismos y lograr así predicciones precisas.
+¡Bienvenidos! Mi nombre es Matias Martinez y estoy cursando la etapa de Labs del Bootcamp de Henry. En este proyecto pondré en práctica mis habilidades en el campo de la predicción. Comenzaré con un análisis exploratorio de datos (EDA), para obtener consistencia en los mismos y lograr así predicciones precisas.
 
 ## **Introducción**
 
